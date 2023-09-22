@@ -1,6 +1,6 @@
 ---
 title: "bootstrapsubplots"
-author: "Eleanor"
+author: "Eleanor Gnam"
 date: "`r Sys.Date()`"
 output: html_document
 ---
